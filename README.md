@@ -7,3 +7,5 @@
 当然我也会在 [掘金](https://juejin.im/user/712139263459176) 中游荡 ，在 [知乎](https://www.zhihu.com/people/zhao-long-90-89/posts) 中分享为什么 ，在 [头条同步](https://www.toutiao.com/i6867301274614759948/)  | [百度同步](https://baijiahao.baidu.com/builder/preview/s?id=1676587101499079482) 中分享时刻
 
  |专心   |专注 |专致 | 极致 | 所以也要有微信公众号中的每日分享 微信中搜  biglead ,你会在每日晨起的时刻收到一份干货，你也可以随时随地阅读你喜欢观注的研发领域
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200905220716828.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3psMTg2MDM1NDM1NzI=,size_16,color_FFFFFF,t_70#pic_center)
