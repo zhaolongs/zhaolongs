@@ -1,6 +1,9 @@
 不到最后时刻，千万别轻言放弃，无论结局成功与否，只要你拼博过，尽力过，一切问心无愧
- |专心   |专注 |专致 | 极致 |
-|--|--|--|--|
-| [CSDN](https://biglead.blog.csdn.net/)| | [网易云课堂教程](https://study.163.com/instructor/1021406098.htm)  | 
-| [掘金](https://juejin.im/user/712139263459176)| [EDU学院教程](https://edu.csdn.net/lecturer/1555)  || [知乎](https://www.zhihu.com/people/zhao-long-90-89/posts)| [Flutter系列文章 ](https://blog.csdn.net/zl18603543572/article/details/93532582)  |
- |[头条同步](https://www.toutiao.com/i6867301274614759948/)  | [百度同步](https://baijiahao.baidu.com/builder/preview/s?id=1676587101499079482) |
+
+我会在 [CSDN](https://biglead.blog.csdn.net/)  中分享一些 小知识点、开发经验、性能优化、原理分析，这些是源自于实战项目的感悟。
+
+然后在每个月中的周末中，录制一些 Flutter 的视频教程，这些我收录在了  [网易云课堂中](https://study.163.com/instructor/1021406098.htm) 或者是 [EDU学院教程](https://edu.csdn.net/lecturer/1555)   然后顺手配套了一份文档[Flutter系列文章 ](https://blog.csdn.net/zl18603543572/article/details/93532582) 
+
+当然我也会在 [掘金](https://juejin.im/user/712139263459176) 中游荡 ，在 [知乎](https://www.zhihu.com/people/zhao-long-90-89/posts) 中分享为什么 ，在 [头条同步](https://www.toutiao.com/i6867301274614759948/)  | [百度同步](https://baijiahao.baidu.com/builder/preview/s?id=1676587101499079482) 中分享时刻
+
+ |专心   |专注 |专致 | 极致 | 所以也要有微信公众号中的每日分享 微信中搜  biglead ,你会在每日晨起的时刻收到一份干货，你也可以随时随地阅读你喜欢观注的研发领域
