@@ -8,4 +8,4 @@
 
  |专心   |专注 |专致 | 极致 | 所以也要有微信公众号中的每日分享 微信中搜  biglead ,你会在每日晨起的时刻收到一份干货，你也可以随时随地阅读你喜欢观注的研发领域
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200905220716828.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3psMTg2MDM1NDM1NzI=,size_16,color_FFFFFF,t_70#pic_center)
+![|专心   |专注 |专致 | 极致 |](https://img-blog.csdnimg.cn/20200906093727180.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3psMTg2MDM1NDM1NzI=,size_16,color_FFFFFF,t_70#pic_center)
