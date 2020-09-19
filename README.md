@@ -12,10 +12,13 @@
 
 * [Flutter 自定义相机](https://github.com/zhaolongs/FlutterCustomCameraPugin)
 * [Flutter 上拉抽屉](https://github.com/zhaolongs/drag_container)
-* [Flutter Html 插件](https://github.com/zhaolongs/Flutter_Fai_Webview)
+
 * [Flutter 友盟统计与推送插件](https://github.com/zhaolongs/flutter_fai_umeng)
 * [Flutter 抖动动画插件](https://github.com/zhaolongs/flutter_shake_animation_widget)
 * [Flutter生命周期插件](https://github.com/zhaolongs/flutter_life_state)
+
+* [Flutter Html Text 富文本插件](https://github.com/zhaolongs/flutter_html_rich_text) [pub仓库]()
+* [Flutter Html WebView 插件](https://github.com/zhaolongs/Flutter_Fai_Webview)[pub仓库]()
 
 
 ![|专心   |专注 |专致 | 极致 |](https://img-blog.csdnimg.cn/20200906093727180.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3psMTg2MDM1NDM1NzI=,size_16,color_FFFFFF,t_70#pic_center)
