@@ -10,6 +10,14 @@
 
 然后我也造了很多轮子
 
+***
+flutter_echart lutter 饼状图、柱状图、拆线图、Flutter动态饼图：
+[文档在这里](https://github.com/zhaolongs/flutter_echart)
+
+![旋转的饼图](https://img-blog.csdnimg.cn/20201203013120622.gif#pic_center)
+
+***
+
 * [Flutter 自定义相机](https://github.com/zhaolongs/FlutterCustomCameraPugin)
 * [Flutter 上拉抽屉](https://github.com/zhaolongs/drag_container)
 
